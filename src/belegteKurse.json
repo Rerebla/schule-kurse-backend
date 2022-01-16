@@ -1,0 +1,7 @@
+{
+    "max mustermann": {
+        "WS": ["ExampleCourse1", "ExamepleCourse2"],
+        "SS": ["ExampleCourse3", "ExamepleCourse4"],
+        "all": ["ExampleCourse1", "ExamepleCourse2", "ExampleCourse3", "ExampleCourse4"]
+    }
+}
